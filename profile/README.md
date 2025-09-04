@@ -27,6 +27,6 @@
 - We integrate with your existing flows
 
 ## Contact
-- 🌐 https://riseedge.com  
-- ✉️ info@riseedge.com  
-- 🧑‍💻 https://github.com/RiseEdge
+-  https://riseedge.com  
+-  info@riseedge.com  
+-  https://github.com/RiseEdge
