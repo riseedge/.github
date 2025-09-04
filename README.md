@@ -4,8 +4,8 @@
   <img src="https://raw.githubusercontent.com/RiseEdge/riseedge.github.io/main/assets/logo.png" alt="RiseEdge emblem" height="56">
 </p>
 
-<h1 align="center">RiseEdge</h1>
-<p align="center"><b>ASIC development from RTL to tape-out</b> — with a strong emphasis on design verification, RTL integration, and DFT.</p>
+<h1 align="left">RiseEdge</h1>
+<p align="left"><b>ASIC development from RTL to tape-out</b> — with a strong emphasis on design verification, RTL integration, and DFT.</p>
 
 ---
 
