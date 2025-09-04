@@ -1,7 +1,7 @@
 <!-- Org profile README for github.com/RiseEdge -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RiseEdge/riseedge.github.io/main/assets/riseedge-emblem.png" alt="RiseEdge emblem" height="56">
+  <img src="https://raw.githubusercontent.com/RiseEdge/riseedge.github.io/main/assets/logo.png" alt="RiseEdge emblem" height="56">
 </p>
 
 <h1 align="center">RiseEdge</h1>
