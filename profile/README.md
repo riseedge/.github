@@ -14,7 +14,7 @@
 - **Design verification (UVM/SVA)** — protocol/IP benches (SPI/APB/AXI/JTAG), assertions, triage  
 - **Automation** — scripted builds and smoke sims; artifacted logs/waveforms; plugs into your CI
 
-## Selected public repos
+## Our recent projects
 - **uvm-spi-agent** — UVM agent + sequences + scoreboard for SPI master/slave.  
   https://github.com/RiseEdge/uvm-spi-agent
 - **jtag-tap-uvm** — IEEE 1149.1 TAP RTL + UVM testbench with scan chain checks.  
